@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhddse161412/git-test.git"
+  },
+  "author": "anhdd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhddse161412/git-test/issues"
+  },
+  "homepage": "https://github.com/anhddse161412/git-test#readme"
+}
